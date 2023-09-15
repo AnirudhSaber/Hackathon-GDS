@@ -8,6 +8,7 @@
 |3 |AWS Kinesis|
 |4 |AWS Lambda|
 |5 |AWS DynamoDB|
+|6 |AWS Redshift|
 
 [ARCHITECTURE](https://github.com/AnirudhSaber/Hackathon-GDS/blob/main/pipeline-design.pdf)
 
